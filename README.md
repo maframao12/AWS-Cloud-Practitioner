@@ -11,7 +11,7 @@ O candidato deve demonstrar conhecimento da AWS nas seguintes áreas:
 
 Neste espaço estarei disponibilizando material para estudos certificação AWS CLOUD PRACTITIONER
 
-PRIMEIRO DE TUDO
+PRIMEIRO DE TUDO!
 IMPRIMA A GUIA DO EXAME - MATERIAL DISPONIBILIZADO PELA AWS
 ----------------------------------------------------------------------------------
 https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
