@@ -50,6 +50,9 @@ Vídeo que ensina algumas frases em INGLÊS para usar com o PROCTOR antes da pro
 https://drive.google.com/file/d/12I3zcy1soAP5xIyk8BL0xir9tAVmdt8O/view
 
 BONUS
-MATERIAL DE ESTUDO DA PATTY - Cloud-Knitters-Community
 ----------------------------------------------------------------------------------
+MATERIAL DE ESTUDO DA PATTY - Cloud-Knitters-Community
 https://github.com/Cloud-Knitters-Community/AWS_Cloud_Practitioner_Materiais_Para_Estudo
+
+Meu livro favorido de AWS - Douglas Batista
+https://drive.google.com/file/d/1gmAUcK1Y49ncI2hO36zRbQyeTzjRsWHW/view?usp=drive_link
