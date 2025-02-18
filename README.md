@@ -1,8 +1,22 @@
 # AWS-Cloud-Practitioner
 BEM VINDO, BIEN VENIDO, WELLCOME
 ----------------------------------------------------------------------------------
+O exame AWS Certified Cloud Practitioner (CLF-C02) destina-se a pessoas que podem demonstrar efetivamente conhecimento geral da nuvem AWS, independentemente
+do cargo específico. 
+O candidato deve demonstrar conhecimento da AWS nas seguintes áreas:
+• Conceitos da nuvem AWS
+• Segurança e conformidade na nuvem AWS
+• Serviços básicos da AWS
+• Aspectos econômicos da nuvem AWS
+
 Neste espaço estarei disponibilizando material para estudos certificação AWS CLOUD PRACTITIONER
 
+PRIMEIRO DE TUDO
+IMPRIMA A GUIA DO EXAME - MATERIAL DISPONIBILIZADO PELA AWS
+----------------------------------------------------------------------------------
+https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+
+Com ele em mãos, você vai assinalando com marca-texto à medida que adquire o conhecimento.
 
 Links de Simulados repassados pelo prof.Andersson (EDN)
 ----------------------------------------------------------------------------------
