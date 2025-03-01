@@ -56,3 +56,33 @@ https://github.com/Cloud-Knitters-Community/AWS_Cloud_Practitioner_Materiais_Par
 
 Meu livro favorido de AWS - Douglas Batista
 https://drive.google.com/file/d/1gmAUcK1Y49ncI2hO36zRbQyeTzjRsWHW/view?usp=drive_link
+
+Conteúdos da EdN
+
+Aulões de revisão:
+ 
+Revisão AWS Cloud Practitioner - Domínio 1: Conceitos de Nuvem
+https://youtu.be/YU0yM6FPZFs
+Revisão AWS Cloud Practitioner - Domínio 2 Segurança e Conformidade
+https://youtu.be/A82O0oYElYg
+Revisão AWS Cloud Practitioner - Domínio 3 Tecnologia e serviços da nuvem
+https://youtu.be/0gBDLsHDA0s
+Revisão AWS Cloud Practitioner - Domínio 4: Cobrança, preços e suporte
+https://youtu.be/dsN7v15AzKE
+ 
+DIVERSOS
+Simulados comentados:
+ 
+Simulado Comentado CLF-C02  Escola da Nuvem 20/11 19h
+https://youtu.be/qAbJoeNXS8w
+Simulado Comentado CLF-C02  Escola da Nuvem 24/11 das 10h às 11h30
+https://youtu.be/zu0VuKflL7E
+Simulado Comentado CLF-C02  Escola da Nuvem 27/11 das 19h às 20h30
+https://youtu.be/gmh8sIkKftA
+Simulado Comentado CLF-C02  Escola da Nuvem 28/11 das 19h às 20h30
+https://youtu.be/9gsKELYijpw
+Simulado Comentado CLF-C02  Escola da Nuvem 29/11 das 19h às 20h30
+https://youtu.be/ECXMEbtDqcQ
+Análise e Interpretação de Questões Cloud Practitioner
+https://www.youtube.com/watch?v=gvmvjKMAhxU
+
